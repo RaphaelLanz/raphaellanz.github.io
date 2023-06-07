@@ -60,3 +60,39 @@ Here are the courses that I have completed so far:
 * Docker Deep Dive
 
 ---
+---
+If you would like to get experience with Linux and Windows commands, I recomend the below websites:
+
+Linux:
+
+* [OverTheWire](https://overthewire.org/wargames/bandit/)
+* [LinuxCommand](LinuxCommand.org) 
+* [Linux Journey](https://linuxjourney.com/)
+* [Linux Terminal](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org)
+* Vitual Machine - pick one and install linux
+* c
+
+Windows:
+
+* [PowerShell](https://ss64.com/ps/)
+* [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+* ][Windows Command Line](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+* [underthewire.tech](https://underthewire.tech/century)
+
+---
+<!-- Creating tables -->
+**Credentials** *[underthewire.tech](https://underthewire.tech/century)*
+
+|username | password |
+|---------| ------   |
+| :---    | :---     |
+|century1 | century1 | 
+|cyborg1  | cyborg1  |
+|groot1   | groot1   |
+|oracle1  | oracle1  |
+|trebek1  | trebek1  |
+
+---
+<center>**I have gain a solid foundation in cybersecurity and related areas, those courses have been giving me a massive knowledge to continue in this area which is very interesting and vas**.</center>
+
+---
