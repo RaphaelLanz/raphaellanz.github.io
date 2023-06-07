@@ -70,7 +70,7 @@ Below are some highly recommended courses that are great for beginners to gain k
 
 <!-- free cybersecurity courses-->
 
-<h2 align="center" style="color:red">Free Cyber Security Courses:</h2> 
+<h2 align="center" style="color:red"> 🆓 Free Cyber Security Courses 🆓 </h2> 
 
 #### Cisco Networking Academy: 
 
@@ -79,10 +79,14 @@ Below are some highly recommended courses that are great for beginners to gain k
 * Cybersecurity Essentials
 * Introduction to Cybersecurity
 * Networking Essentials
-* Networking Basics
-* Networking Devices and Initial Configuration
-* Endpoint Security
-* Network Defense
+ 
+✔️Networking Basics
+
+✔️Networking Devices and Initial Configuration
+
+✔️Endpoint Security
+
+✔️ Network Defense
 
 ✔️ Cyber Threat Management
 
