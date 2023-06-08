@@ -66,7 +66,7 @@ If you would like to get experience with Linux and Windows commands, I recomend 
 Linux:
 
 * [OverTheWire](https://overthewire.org/wargames/bandit/)
-* [LinuxCommand](LinuxCommand.org) 
+* [LinuxCommand](https://linuxcommand.org/) 
 * [Linux Journey](https://linuxjourney.com/)
 * [Linux Terminal](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org)
 * Vitual Machine - pick one and install linux
