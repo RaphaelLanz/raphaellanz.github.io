@@ -20,7 +20,7 @@ timezone: Europe/Dublin
 
 title: Cyber Journey # the main title
 
-tagline: A tale of learning, growth, and discovery # it will display as the sub-title
+tagline: A tale of learning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Embark on an exciting adventure into the world of cybersecurity as I uncover the mysteries of this rapidly evolving field
