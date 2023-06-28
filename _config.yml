@@ -199,7 +199,8 @@ jekyll-archives:
     category: /categories/:name/
 
 collections:
-  tutorials:
+  Post:
+    output: true  
     order:
       - 2023-05-18-cyber blog.md
       - 2023-05-18-Free Courses.md
