@@ -198,16 +198,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-collections:
-  Post:
-    output: true  
-    order:
-      - 2023-05-18-cyber blog.md
-      - 2023-05-18-Free Courses.md
-      - 2023-05-18-cyber podcast.md
-      - 2023-05-19-AI.md
-      - 2023-05-19-osint.md
-      - 2023-05-29-Linux.md
-      - 2023-05-29-Dark Web.md
-      - 2023-05-31-Application.Tools.md
-      - 2023-06-01-Tech Info.md
