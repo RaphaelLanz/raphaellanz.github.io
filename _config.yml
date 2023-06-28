@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://s.gravatar.com/avatar/f9e8ffe7ab0f4fff263a23a06099d0d9?s=80
+avatar: https://postimg.cc/n9GMvZWQ
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -197,3 +197,16 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+collections:
+  tutorials:
+    order:
+      - 2023-05-18-cyber blog.md
+      - 2023-05-18-Free Courses.md
+      - 2023-05-18-cyber podcast.md
+      - 2023-05-19-AI.md
+      - 2023-05-19-osint.md
+      - 2023-05-29-Linux.md
+      - 2023-05-29-Dark Web.md
+      - 2023-05-31-Application.Tools.md
+      - 2023-06-01-Tech Info.md
