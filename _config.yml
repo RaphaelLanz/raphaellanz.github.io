@@ -198,3 +198,6 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+<!-- page.my_array is ['c', 'a', 'b'] -->
+{{ page.my_array | sort }}
+output: ['a','b','c']
