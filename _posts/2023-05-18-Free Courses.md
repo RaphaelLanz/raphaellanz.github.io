@@ -94,6 +94,17 @@ Below are some highly recommended courses that are great for beginners to gain k
 
 <a href="https://skillsforall.com/catalog" target="_blank">Cisco Free Courses</a>
 
+### Linux
+* [Introduction to Linux](https://www.edx.org/course/introduction-to-linux?index=product)
+* [Linux Basics: The Command Line](https://www.edx.org/course/linux-basics-the-command-line-interface?index=product&queryID=c03bfdb8f2f7c0c89609ddfa7fc0273a&position=4)
+* [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
+* [Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
+* [Master Linux and Shell Script From Beginner to Advanced](https://alison.com/course/master-linux-and-shell-script-from-beginner-to-advanced)
+* [Linux for Ethical Hackers](https://www.youtube.com/watch?v=U1w4T03B30I&ab_channel=TheCyberMentor)
+* [Linux Essentials for Hackers](https://hackersploit.org/linux-essentials-for-hackers/)
+* [Linux Administrator]()
+* [Kali Linux for Ethical Hackers](https://www.youtube.com/watch?v=lZAoFs75_cs&t=34s&ab_channel=freeCodeCamp.org)
+  
 
 
 
