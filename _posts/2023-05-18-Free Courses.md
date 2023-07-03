@@ -74,22 +74,16 @@ Below are some highly recommended courses that are great for beginners to gain k
 
 #### Cisco Networking Academy: 
 
-* Operating System Basics
-* Computer Hardware Basics
-* Cybersecurity Essentials
-* Introduction to Cybersecurity
-* Networking Essentials
- 
+✔️Operating System Basics
+✔️Computer Hardware Basics
+✔️Cybersecurity Essentials
+✔️Introduction to Cybersecurity
+✔️Networking Essentials
 ✔️Networking Basics
-
 ✔️Networking Devices and Initial Configuration
-
 ✔️Endpoint Security
-
 ✔️ Network Defense
-
 ✔️ Cyber Threat Management
-
 ✔️ Python Essentials 1 & 2
 
 <a href="https://skillsforall.com/catalog" target="_blank">Cisco Free Courses</a>
@@ -107,5 +101,17 @@ Below are some highly recommended courses that are great for beginners to gain k
   
 
 
-
+### Ethical Hacking and Penetration Testing
+* [Practical Ethical Hacking](https://www.youtube.com/watch?v=fNzpcB7ODxQ&ab_channel=TheCyberMentor)
+* [Penetration Testing Bootcamp](https://www.youtube.com/watch?v=qJ9ZmkMvkcA&ab_channel=HackerSploit)
+* [Full Ethical Hacking](https://www.youtube.com/watch?v=3Kq1MIfTWCE&t=158s&ab_channel=freeCodeCamp.org)
+* [Ethical Hacking Essentials](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false)
+* [Network Defense Essentials](https://codered.eccouncil.org/course/network-defense-essentials?logged=false)
+* [Digital Forensics Essentials](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false)
+* [Ethical Hacking for Beginners](https://www.simplilearn.com/cyber-security/ceh-certification)
+* [Offensive Penetration Testing](https://app.cybrary.it/browse/course/offensive-penetration-testing)
+* [Junior Penetration Tester (eJPT)](https://www.youtube.com/watch?v=pdgBU9MDAwE&t=36s&ab_channel=PhDSecurity)
+* [Web Application Hacking](https://www.youtube.com/watch?v=24fHLWXGS-M&ab_channel=TheCyberMentor)
+* [Buffer Overflows](https://www.youtube.com/watch?v=ncBblM920jw&ab_channel=TheCyberMentor)
+* [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/)
 
