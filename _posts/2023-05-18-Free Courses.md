@@ -115,3 +115,17 @@ Below are some highly recommended courses that are great for beginners to gain k
 * [Buffer Overflows](https://www.youtube.com/watch?v=ncBblM920jw&ab_channel=TheCyberMentor)
 * [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/)
 
+### Security BlueTeam Courses:
+
+* [Introduction to Darkweb Operations](https://securityblue.team/courses/introduction-to-darkweb-operations/)
+* [An Introduction to Vulnerability Management
+](https://securityblue.team/courses/an-introduction-to-vulnerability-management/)
+* [Introduction to Threat Hunting
+](https://securityblue.team/courses/introduction-to-threat-hunting/)
+* [An Introduction to Digital Forensics
+](https://securityblue.team/courses/an-introduction-to-digital-forensics/)
+* [An Introduction to Network Analysis
+](https://securityblue.team/courses/network-analysis-training-beginner/)
+* [An Introduction to Open-Source Intelligence
+](https://securityblue.team/courses/open-source-intelligence-training-beginner/)
+
